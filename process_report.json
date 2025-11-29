@@ -1,0 +1,87 @@
+{
+  "count": 10,
+  "original_total": 5737002,
+  "compressed_total": 658354,
+  "processed": [
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.20.08.png",
+      "renamed": "11-29_1.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_1.jpg",
+      "original_size": 550775,
+      "compressed_size": 60683,
+      "mtime": "2025-11-29T07:20:14.840713"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.21.21.png",
+      "renamed": "11-29_2.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_2.jpg",
+      "original_size": 553923,
+      "compressed_size": 59927,
+      "mtime": "2025-11-29T07:21:28.086654"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.31.50.png",
+      "renamed": "11-29_3.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_3.jpg",
+      "original_size": 576071,
+      "compressed_size": 66286,
+      "mtime": "2025-11-29T07:31:56.710576"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.32.02.png",
+      "renamed": "11-29_4.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_4.jpg",
+      "original_size": 584689,
+      "compressed_size": 69207,
+      "mtime": "2025-11-29T07:32:08.921580"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.32.35.png",
+      "renamed": "11-29_5.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_5.jpg",
+      "original_size": 563165,
+      "compressed_size": 63507,
+      "mtime": "2025-11-29T07:32:41.213473"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.32.51.png",
+      "renamed": "11-29_6.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_6.jpg",
+      "original_size": 574285,
+      "compressed_size": 65393,
+      "mtime": "2025-11-29T07:32:53.784880"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.32.52.png",
+      "renamed": "11-29_7.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_7.jpg",
+      "original_size": 601775,
+      "compressed_size": 70544,
+      "mtime": "2025-11-29T07:32:59.162500"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.34.50.png",
+      "renamed": "11-29_8.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_8.jpg",
+      "original_size": 581603,
+      "compressed_size": 68703,
+      "mtime": "2025-11-29T07:34:56.883161"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.35.23.png",
+      "renamed": "11-29_9.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_9.jpg",
+      "original_size": 565554,
+      "compressed_size": 64632,
+      "mtime": "2025-11-29T07:35:29.838687"
+    },
+    {
+      "old_name": "Screenshot 2025-11-29 at 07.35.43.png",
+      "renamed": "11-29_10.png",
+      "compressed": "/Users/Apple/BBDC-Pic/collaboration/11/11-29_10.jpg",
+      "original_size": 585162,
+      "compressed_size": 69472,
+      "mtime": "2025-11-29T07:35:49.653462"
+    }
+  ]
+}
